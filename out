@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<row>
+<id>1</id><name>Rick</name><salary>1</salary><start_date>2</start_date><dept>3</dept>
+</row>
+<row>
+<id>2</id><name>Dan</name><salary>515.2</salary><start_date>2013-09-23</start_date><dept>Operations</dept>
+</row>
+<row>
+<id>3</id><name>Michelle</name><salary>611</salary><start_date>2014-11-15</start_date><dept>IT</dept>
+</row>
